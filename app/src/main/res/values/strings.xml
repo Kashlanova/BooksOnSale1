@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BooksOnSale</string>
+    <string name="text1">Приложение создано для удобного доступа к обширной библиотеке книг с одного места,обзоры,рецензии,рейтинги книг,а так же актуальные скидки и всё это собранно в одном месте.</string>
+    <string name="text2">Книжные новинки</string>
+    <string name="text3">Рейтинг книжных интернет-магазинов</string>
+    <string name="text4">Книжные новости</string>
+    <string name="text5">Рецензии</string>
+    <string name="text6">Топ-100 лучших книг</string>
+    <string name="text7">БИБИЛИОНОЧЬ в My-Shop.ru, не уступая конкурентам,площадка так же радует своих постоянных покупателей!</string>
+    <string name="text8">В свою очередь ЛитРес решил не гнаться за БИБЛИОНОЧЬЮ и сделал скидку на весь ассортимент Библос,Претекст и Евробукс,уверен вы найдёте себе много интересного!</string>
+    <string name="text9">Для перехода в главное меню нажмите кнопку назад,на тачпаде телефона!</string>
+    <string name="text10">Купить</string>
+    <string name="text11">Скидки</string>
+    <string name="text12">Новости</string>
+    <string name="text13">О приложении</string>
+    <string name="text14">ВЫХОД</string>
+    <string name="text15">TODO</string>
+    <string name="text16">TODO</string>
+    <string name="text17">TODO</string>
+    <string name="text18">TODO</string>
+    <string name="text20">Читай-город тоже решил обрадовать своих покупателей и запустил БИБЛИОНОЧЬ,спешите пока всё не раскупили!</string>
+    <string name="text21">TODO</string>
+    <string name="text22">Лабиринт запустил БИБЛИОНОЧЬ,успейте купить желаемые книги со скидкой,акция продлится ещё немного!</string>
+    <string name="text23">Добро пожаловать в раздел скидки! Здесь публикуются актуальные скидочные предложения на книги от ведущих, торговых онлайн площадок! Выбирайте то,что понравится!</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="text24">Данный раздел включает в себя крупнейшие онлайн площадки для покупки книг в России с доставкой прямо к порогу вашего дома, или в цифровом варианте! Просто выберите интересующий вас ресурс!</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="text25">Для перехода в главное меню нажмите кнопку назад,на тачпаде телефона!</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo10">TODO</string>
+</resources>
